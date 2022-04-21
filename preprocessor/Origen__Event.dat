@@ -1,0 +1,38 @@
+Events                                        Ea (forward)             Ea (backward)
+R1         O2 + * + *  -> O* + O*                 0.5                       3.07          
+R2         H2O + * + * -> H* + OH*                1                         0.84       
+R3         OH* + * -> H* + O*                     0.81                      0.9               
+R4         CH3CH2OH + * + * -> CH3CH2O* + H*      0.58                      0.77             
+R5         CH3CH2O* + * -> CH3* + HCHO*           1.41                      0.76                 
+R6         CH3CH2O* + * -> CH3CH2* + O*           1.27                      1.34             
+R7         CH3CH2O* + * -> CH2CH2O* + H*          0.55                      0.04                  
+R8         CH3CH2O* + * -> CH3CHO* + H*           0.95                      0.94                 
+R9         CH3* + H* -> CH4* + *                  0.6                       0.68         
+R10        CH3* + * -> CH2* + H*                  0.18                      0.43         
+R11        CH2* + * -> CH* + H*                   0.11                      0.61         
+R12        CH* + * -> C* + H*                     1.07                      0.65         
+R13        C* + O* -> CO* + *                     0.99                      3.72         
+R14        CO* + O* -> CO2* + *                   1.34                      0.77         
+R15        CH* + O* -> CHO* + *                   1.23                      0.98      
+R16        CHO* + * -> CO* + H*                   0.34                      1.53      
+R17        HCHO* + * -> CHO* + H*                 0.07                      0.75           
+R18        HCHO* + * -> CH2* + O*                 1.12                      1.35      
+R19        CH3CH2* + * -> CH3* + CH2*             1.2                       1.07         
+R20        CH3CH2* + * -> CH2CH2* + H*            0.28                      0.79         
+R21        CH2CH2* + * -> CH2* + CH2*             0.99                      0.17   
+R22        CH2CH2O* + * -> HCHO* + CH2*           0.45                      0.69           
+R23        CH2CH2O* + * -> CH2CH2* + O*           1                         1.11      
+R24        CH3CHO* + * -> CH3CO* + H*             0.09                      0.89           
+R25        CH3CO* + * -> CH3* + CO*               0.63                      1.02      
+R26        CH3CHO* + * -> CH3* + CHO*             0.78                      1.2            
+R27        H* + H* -> H2 + * + *                  1.16                      10       
+RCO	       CO* -> CO + *	                        1.99                      10
+RCO2	     CO2* -> CO2 + *	                      0.00 	                    10
+RCH4	     CH4* -> CH4 + *	                      0.00 	                    10
+RC2H4	     CH2CH2* -> CH2CH2 + *	                0.94                      10
+RCH3CHO	   CH3CHO* -> CH3CHO + *	                0.22 	                    10
+
+
+
+
+
